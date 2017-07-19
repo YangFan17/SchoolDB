@@ -1,0 +1,9 @@
+C:\Users\mhl\Desktop\Test\School\School\bin\Debug\School.exe.config
+C:\Users\mhl\Desktop\Test\School\School\bin\Debug\School.exe
+C:\Users\mhl\Desktop\Test\School\School\bin\Debug\School.pdb
+C:\Users\mhl\Desktop\Test\School\School\bin\Debug\EntityFramework.dll
+C:\Users\mhl\Desktop\Test\School\School\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mhl\Desktop\Test\School\School\bin\Debug\EntityFramework.xml
+C:\Users\mhl\Desktop\Test\School\School\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mhl\Desktop\Test\School\School\obj\Debug\School.exe
+C:\Users\mhl\Desktop\Test\School\School\obj\Debug\School.pdb
